@@ -59,4 +59,4 @@ Projeyi bilgisayarınızda çalıştırmak için adımları izleyin:
 Bu proje eğitim amaçlı geliştirilmiştir ve açık kaynaklıdır.
 
 ---
-**Geliştirici:** [GitHub Profiliniz](https://github.com/KULLANICI_ADIN)
+**Geliştirici:** [Serdarsahinn05](https://github.com/KULLANICI_ADIN)
